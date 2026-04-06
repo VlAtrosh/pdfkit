@@ -102,6 +102,10 @@ PDFKit PDF Generator
 | Колонтитул | Нумерация страниц |
 | Стили | Профессиональное оформление на CSS |
 
+<img width="937" height="984" alt="Снимок экрана (1145)" src="https://github.com/user-attachments/assets/7c7d78fc-2515-4da8-a113-d089d53e8214" />
+<img width="931" height="980" alt="Снимок экрана (1144)" src="https://github.com/user-attachments/assets/8c68489b-51c0-4b5c-a492-c572ea5ed7ad" />
+
+
 ## 🔧 Детали реализации
 
 ```
