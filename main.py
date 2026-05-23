@@ -1,7 +1,7 @@
 import os
 from datetime import datetime
 from pdf_generator import PDFGenerator
-import config
+import configgg
 
 def main():
     """Main function demonstrating PDF generation"""
